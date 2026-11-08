@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /404.html
 
-Sitemap: https://riatrade.hackera.online/sitemap.xml
+Sitemap: https://www.remontpokrivibg.com/sitemap.xml
